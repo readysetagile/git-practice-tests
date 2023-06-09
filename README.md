@@ -1,5 +1,4 @@
 # practice-git
 
 ## Please change to the /dev branch for instructions
-edited
-edited by the tester
+edited by John because he's nasty
