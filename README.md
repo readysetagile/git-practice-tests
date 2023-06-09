@@ -1,4 +1,4 @@
 # practice-git
 
 ## Please change to the /dev branch for instructions
-edited by John because he's nasty
+john really wants to create something different to prove a point
